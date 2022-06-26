@@ -1,4 +1,4 @@
-Hi, you can reach me with the email below.
+Hi, you can reach me with the following email.
 chenwjason@gmail.com
 
 <!---
